@@ -3,6 +3,5 @@
 ## Course Information
 
 
-<img src="img/R_for_EnvSci.png" alt="blogdown logo" align="right" width="120pm"/> 
+<img src="img/R_for_EnvSci.png" alt="blogdown logo" align="right" width="175pm"/> 
 
-M
