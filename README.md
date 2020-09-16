@@ -2,8 +2,8 @@
 
 
 # University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010)
-## Course Information
 
+## Course schedulle
 
 Week | Class date | First half of class | Second half of class |
 ---- | ---------- | ------------------- | -------------------- |
