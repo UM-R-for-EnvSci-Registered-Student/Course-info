@@ -4,10 +4,6 @@
 # University of Manitoba </br> R for Environmental Sciences (ENVR 4000 / GEOG 7010)
 ## Course Information
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 Week | Class date | First half of class | Second half of class
 ---- | ---------- | ------------------- | --------------------
