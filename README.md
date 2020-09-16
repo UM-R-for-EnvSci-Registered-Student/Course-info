@@ -1,7 +1,7 @@
 <img src="img/R_for_EnvSci.png" alt="blogdown logo" align="right" height="150pm"/> 
 
 
-# University of Manitoba </br> R for Environmental Sciences (ENVR 4000 / GEOG 7010)
+# University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010)
 ## Course Information
 
 
@@ -21,8 +21,3 @@ Week | Class date | First half of class | Second half of class |
 13 | 2020-12-08 | Review and questions | Review and questions |
 14 |2020-12-15 | No class - Take-home exam | No class - Take-home exam |
 
-
-
-```r
-libra
-```
