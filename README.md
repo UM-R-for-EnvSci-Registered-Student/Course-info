@@ -3,4 +3,4 @@
 ## Course Information
 
 
-<img src="img/R_for_EnvSci.png" alt="blogdown logo sice" width="70px"/>
+<img src="img/R_for_EnvSci.png" alt="blogdown logo align="right" width="120pm"/>
