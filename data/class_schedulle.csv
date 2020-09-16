@@ -1,0 +1,15 @@
+﻿Week,Class date,First half of class,Second half of class
+1,44089,Intro,Git and GitHub
+2,44096,What is and isn't *data*,"Rstudio, project oriented workflows, and Git in Rstudio"
+3,44103,Data Types and Objects in R,Base R
+4,44110,Rmarkdown & {here},Intro to the tidiverse and ggplot2
+5,44117,Data wrangling 1,Data wrangling II (Joins and functional data loading)
+6,44124,Working with dates with {lubridate} and character strings {stringr},"More ggplot2 (themes, scales, saving)"
+7,44131,"Functions, conditionals, and loops",Functional programing with {purrr}
+8,44138,Modelling and {broom},Rmarkdown outputs
+9,44145,No class - fall break,No class - fall break
+10,44152,R as a GIS (Mapping with R),Web scrapping and APIs
+11,44159,Dashboards with {Shiny} 1,Dashboards with {Shiny} 2
+12,44166,Environmental Science applications I,Environmental Science applications II
+13,44173,Review and questions,Review and questions
+14,44180,No class - Take-home exam,No class - Take-home exam
