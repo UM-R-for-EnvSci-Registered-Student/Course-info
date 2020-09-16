@@ -10,7 +10,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 Week | Class date | First half of class | Second half of class
-
+---- | ---------- | ------------------- | --------------------
 1 | 2020-09-15 | Intro | Git and GitHub
 2 | 2020-09-22 | What is and isn't *data* | RStudio, project-oriented workflows, and Git in RStudio
 3 | 2020-09-29 | Data Types and Objects in R | Base R
