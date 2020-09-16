@@ -8,7 +8,7 @@
 Week | Class date | First half of class | Second half of class |
 ---- | ---------- | ------------------- | -------------------- |
 1 | 2020-09-15 | Intro | Git and GitHub |
-2 | 2020-09-22 | What is and isn't *data* | RStudio, project-oriented workflows, and Git in RStudio |
+2 | 2020-09-22 | What is and isn't **data** | RStudio, project-oriented workflows, and Git in RStudio |
 3 | 2020-09-29 | Data Types and Objects in R | Base R |
 4 | 2020-10-06 | Rmarkdown & {here} | Intro to the {tidyverse} and {ggplot2} |
 5 | 2020-10-13 | Data wrangling 1 | Data wrangling II (Joins and functional data loading) |
