@@ -11,9 +11,9 @@
 
 ## Links to GitHub Classroom Assignments
 
-1. Week 01: [Recording](https://classroom.github.com/a/6N3AW2ao) |  [Auditors](https://classroom.github.com/a/QwtT0owc)
+1. Week 01: [Registered students](https://classroom.github.com/a/6N3AW2ao) |  [Auditors](https://classroom.github.com/a/QwtT0owc)
 2. Week 02: *No assignment*
-3. Week 03: [Recording](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8)
+3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8)
 
 ## Tentative course schedulle
 
