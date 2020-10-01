@@ -3,7 +3,21 @@
 
 # University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010)
 
-## Course schedulle
+## Past lecture slides and recordings
+
+1. Week 01: :movie_camera: [Recording](https://www.dropbox.com/s/dm2tyrumbs49gby/UM_R_for_EnvSci_20200915.mp4?dl=0) | :bar_chart: [Slides](https://www.dropbox.com/s/inifl5qahckiky7/Wk1_UM_R_for_EnvSci.pptx?dl=0)
+2. Week 02: :movie_camera: [Recording](https://www.dropbox.com/s/uvmywxjx876szf0/UM_R_for_EnvSci_20200922.mp4?dl=0) | :bar_chart: [Slides](https://www.dropbox.com/s/n8r1f23pbjpmc0u/Wk2_UM_R_for_EnvSci.pptx?dl=0)
+3. Week 03: :movie_camera: [Recording](https://youtu.be/wJaL2nKA0yA) | :bar_chart: [Slides](https://www.dropbox.com/s/hqzw2m3yxjgf4wi/Wk3_UM_R_for_EnvSci.pptx?dl=0)
+
+## Links to GitHub Classroom Assignments
+
+1. Week 01: [Recording](https://classroom.github.com/a/6N3AW2ao) |  [Auditors](https://classroom.github.com/a/QwtT0owc)
+2. Week 02: *No assignment*
+3. Week 03: [Recording](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8)
+
+## Tentative course schedulle
+
+We will try to follow the below schedulle. Some things might take a bit longer and some might take a bit less, but we will cover all important parts listed below (and maybe more!)
 
 Week | Class date | First half of class | Second half of class |
 ---- | ---------- | ------------------- | -------------------- |
