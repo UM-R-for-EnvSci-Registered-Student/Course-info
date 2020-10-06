@@ -15,6 +15,13 @@
 2. Week 02: *No assignment*
 3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8)
 
+## TidyTuesday Commentary Assignments
+
+1. Week 01: *No assignment*
+2. Week 02: *No assignment*
+3. Week 03: *No assignment*
+4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-Tydituesday-commentary)
+
 ## Tentative course schedulle
 
 We will try to follow the below schedulle. Some things might take a bit longer and some might take a bit less, but we will cover all important parts listed below (and maybe more!)
