@@ -11,11 +11,11 @@
 4. Week 04: :movie_camera: [Recording](https://youtu.be/tnETT3iI0Xw) | :bar_chart: [Slides](https://www.dropbox.com/s/4d8db3rfl227q04/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk04-Class_materials)
 5. Week 05: :movie_camera: [Recording](https://youtu.be/HG1PwmrbKF4) | :bar_chart: [Slides](https://www.dropbox.com/s/2cymunvhtgwxvfk/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk05-Class_materials)
 
-## Links to GitHub Classroom Assignments
+## Assignments
 
-1. Week 01: [Registered students](https://classroom.github.com/a/6N3AW2ao) |  [Auditors](https://classroom.github.com/a/QwtT0owc)
+1. Week 01: [Registered students](https://classroom.github.com/a/6N3AW2ao) |  [Auditors](https://classroom.github.com/a/QwtT0owc) 
 2. Week 02: *No assignment*
-3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8)
+3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk03-hw-solutions)
 4. Week 04: [Registered students](https://classroom.github.com/a/JrUsg0Kk) |  [Auditors](https://classroom.github.com/a/Tt_cesik)
 5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L)
 
