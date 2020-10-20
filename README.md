@@ -10,6 +10,7 @@
 3. Week 03: :movie_camera: [Recording](https://youtu.be/wJaL2nKA0yA) | :bar_chart: [Slides](https://www.dropbox.com/s/hqzw2m3yxjgf4wi/Wk3_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/peperg-Wk03-Class_materials)
 4. Week 04: :movie_camera: [Recording](https://youtu.be/tnETT3iI0Xw) | :bar_chart: [Slides](https://www.dropbox.com/s/4d8db3rfl227q04/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk04-Class_materials)
 5. Week 05: :movie_camera: [Recording](https://youtu.be/HG1PwmrbKF4) | :bar_chart: [Slides](https://www.dropbox.com/s/2cymunvhtgwxvfk/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk05-Class_materials)
+6. Week 06: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk06-Class_materials)
 
 ## Assignments
 
