@@ -5,12 +5,12 @@
 
 ## Past lecture slides and recordings
 
-1. Week 01: :movie_camera: [Recording](https://www.dropbox.com/s/dm2tyrumbs49gby/UM_R_for_EnvSci_20200915.mp4?dl=0) | :bar_chart: [Slides](https://www.dropbox.com/s/inifl5qahckiky7/Wk1_UM_R_for_EnvSci.pptx?dl=0)
+1. Week 01: :movie_camera: [Recording](https://youtu.be/PFJ4mvQWe-E) | :bar_chart: [Slides](https://www.dropbox.com/s/inifl5qahckiky7/Wk1_UM_R_for_EnvSci.pptx?dl=0)
 2. Week 02: :movie_camera: [Recording](https://youtu.be/-7VS6ZEIu3c) | :bar_chart: [Slides](https://www.dropbox.com/s/n8r1f23pbjpmc0u/Wk2_UM_R_for_EnvSci.pptx?dl=0)
 3. Week 03: :movie_camera: [Recording](https://youtu.be/wJaL2nKA0yA) | :bar_chart: [Slides](https://www.dropbox.com/s/hqzw2m3yxjgf4wi/Wk3_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/peperg-Wk03-Class_materials)
 4. Week 04: :movie_camera: [Recording](https://youtu.be/tnETT3iI0Xw) | :bar_chart: [Slides](https://www.dropbox.com/s/4d8db3rfl227q04/Wk4_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk04-Class_materials)
 5. Week 05: :movie_camera: [Recording](https://youtu.be/HG1PwmrbKF4) | :bar_chart: [Slides](https://www.dropbox.com/s/2cymunvhtgwxvfk/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk05-Class_materials)
-6. Week 06: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk06-Class_materials)
+6. Week 06: :movie_camera: [Recording](https://youtu.be/PqJ5QtwJ_iw) | :bar_chart: [Slides](https://www.dropbox.com/s/gbesvuxg7obj9nc/Wk6_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk06-Class_materials)
 
 ## Assignments
 
@@ -19,14 +19,16 @@
 3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk03-hw-solutions)
 4. Week 04: [Registered students](https://classroom.github.com/a/JrUsg0Kk) |  [Auditors](https://classroom.github.com/a/Tt_cesik) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-hw-solutions)
 5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L)
+6. Week 06: [Registered students](https://classroom.github.com/a/dvvmrNS4) |  [Auditors](https://classroom.github.com/a/nkvS0_Yv)
 
 ## TidyTuesday Commentary Assignments
 
 1. Week 01: *No assignment*
 2. Week 02: *No assignment*
 3. Week 03: *No assignment*
-4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-Tydituesday-commentary)
-5. Week 05: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk05-Tydituesday-commentary)
+4. Week 04: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-Tidytuesday-commentary)
+5. Week 05: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk05-Tidytuesday-commentary)
+6. Week 06: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk06-Tidytuesday_commentary)
 
 ## Tentative course schedulle
 
