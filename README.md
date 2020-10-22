@@ -18,7 +18,7 @@
 2. Week 02: *No assignment*
 3. Week 03: [Registered students](https://classroom.github.com/a/JaaVOKHl) |  [Auditors](https://classroom.github.com/a/CAEhgvA8) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk03-hw-solutions)
 4. Week 04: [Registered students](https://classroom.github.com/a/JrUsg0Kk) |  [Auditors](https://classroom.github.com/a/Tt_cesik) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-hw-solutions)
-5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L)
+5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk05-hw-solutions)
 6. Week 06: [Registered students](https://classroom.github.com/a/dvvmrNS4) |  [Auditors](https://classroom.github.com/a/nkvS0_Yv)
 
 ## TidyTuesday Commentary Assignments
