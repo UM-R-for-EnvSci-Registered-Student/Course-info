@@ -12,7 +12,7 @@
 5. Week 05: :movie_camera: [Recording](https://youtu.be/HG1PwmrbKF4) | :bar_chart: [Slides](https://www.dropbox.com/s/2cymunvhtgwxvfk/Wk5_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk05-Class_materials)
 6. Week 06: :movie_camera: [Recording](https://youtu.be/PqJ5QtwJ_iw) | :bar_chart: [Slides](https://www.dropbox.com/s/gbesvuxg7obj9nc/Wk6_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk06-Class_materials)
 7. Week 07: :movie_camera: [Recording](https://youtu.be/TxgPXUGT-pk) | :bar_chart: [Slides](https://www.dropbox.com/s/qunqfvo1qnb0rj9/Wk7_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk07-Class_materials)
-8. Week 08: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk08-Class_materials)
+8. Week 08: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk08-Class_materials)
 
 ## Assignments
 
@@ -22,7 +22,7 @@
 4. Week 04: [Registered students](https://classroom.github.com/a/JrUsg0Kk) |  [Auditors](https://classroom.github.com/a/Tt_cesik) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk04-hw-solutions)
 5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk05-hw-solutions)
 6. Week 06: [Registered students](https://classroom.github.com/a/dvvmrNS4) |  [Auditors](https://classroom.github.com/a/nkvS0_Yv) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk06-hw-solutions)
-7. Week 07: [Registered students](https://classroom.github.com/a/PCNGm5u_) | [Auditors](https://classroom.github.com/a/KQp1kfDO)
+7. Week 07: [Registered students](https://classroom.github.com/a/PCNGm5u_) | [Auditors](https://classroom.github.com/a/KQp1kfDO)  | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk07-hw-solutions)
 
 ## TidyTuesday Commentary Assignments
 
