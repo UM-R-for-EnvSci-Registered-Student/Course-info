@@ -14,8 +14,8 @@
 7. Week 07: :movie_camera: [Recording](https://youtu.be/TxgPXUGT-pk) | :bar_chart: [Slides](https://www.dropbox.com/s/qunqfvo1qnb0rj9/Wk7_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk07-Class_materials)
 8. Week 08: :movie_camera: [Recording](https://youtu.be/uRuNGAcWaAk) | :bar_chart: [Slides](https://www.dropbox.com/s/1kinli39iii6n63/Wk8_UM_R_for_EnvSci.pptx?dl=0) | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk08-Class_materials)
 9. Week 09: *No class - Fall break*
-10. Week 10: :movie_camera: [Recording](https://youtu.be/stDLLVGcESY) | :bar_chart: Slides *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk10-Class_materials)
-11. Week 11: :movie_camera: [Recording](https://youtu.be/IqwwLeVXtPw) | :bar_chart: Slides *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk11-Class_materials)
+10. Week 10: :movie_camera: [Recording](https://youtu.be/stDLLVGcESY) | :bar_chart: *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk10-Class_materials)
+11. Week 11: :movie_camera: [Recording](https://youtu.be/IqwwLeVXtPw) | :bar_chart: *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk11-Class_materials)
 
 ## Assignments
 
