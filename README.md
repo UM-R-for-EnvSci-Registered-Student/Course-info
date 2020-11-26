@@ -41,6 +41,8 @@
 7. Week 07: [Assignment repo](https://github.com/UM-R-for-EnvSci-Registered-Student/wk07-Tidytuesday_commentary)
 8. Week 08: *No commentary*
 9. Week 09: *Fall break, no commentary*
+10. Week 10: *No commentary*
+11. Week 11: *No commentary*
 
 ## Tentative course schedulle
 
