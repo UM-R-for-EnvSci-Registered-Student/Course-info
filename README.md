@@ -16,6 +16,7 @@
 9. Week 09: *No class - Fall break*
 10. Week 10: :movie_camera: [Recording](https://youtu.be/stDLLVGcESY) | :bar_chart: *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk10-Class_materials)
 11. Week 11: :movie_camera: [Recording](https://youtu.be/IqwwLeVXtPw) | :bar_chart: *No slides this week* | :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk11-Class_materials)
+12. Week 12: :computer: [Code](https://github.com/UM-R-for-EnvSci-Registered-Student/Wk12-Class_materials)
 
 ## Assignments
 
