@@ -30,7 +30,7 @@
 8. Week 08: [Registered students](https://classroom.github.com/a/EKtZ6WKc) | [Auditors](https://classroom.github.com/a/0O0iMJ-G) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk08-hw-solutions)
 9. Week 09: *No assignment - Fall Break**
 10. Week 10: **TidyTuesday Assignment (graded)** [Registered students](https://classroom.github.com/a/VkKavQJN) | [Auditors](https://classroom.github.com/a/P03APmxE)
-11. Week 11: [Registered students](https://classroom.github.com/a/Y66VDHTT) | [Auditors](https://classroom.github.com/a/k4wsBN0X)
+11. Week 11: [Registered students](https://classroom.github.com/a/Y66VDHTT) | [Auditors](https://classroom.github.com/a/k4wsBN0X) | [Solutions](https://github.com/UM-R-for-EnvSci-Registered-Student/wk11-hw-solutions)
 
 ## TidyTuesday Commentary Assignments
 
