@@ -3,6 +3,10 @@
 
 # University of Manitoba </br> R for Environmental Sciences </br> (ENVR 4000 / GEOG 7010)
 
+## Take Home Exam
+
+* [Link to GitHub Clasroom invite](https://classroom.github.com/a/9F3z5sen)
+
 ## Past lecture slides and recordings
 
 1. Week 01: :movie_camera: [Recording](https://youtu.be/PFJ4mvQWe-E) | :bar_chart: [Slides](https://www.dropbox.com/s/inifl5qahckiky7/Wk1_UM_R_for_EnvSci.pptx?dl=0)
