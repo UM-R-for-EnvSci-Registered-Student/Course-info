@@ -5,7 +5,7 @@
 
 ## Take Home Exam
 
-* [Link to GitHub Clasroom invite](https://classroom.github.com/a/9F3z5sen)
+* [Link to GitHub Clasroom invite](https://classroom.github.com/a/9F3z5sen) | [Updated Rubric](https://github.com/UM-R-for-EnvSci-Registered-Student/Take_home_exam_updated_rubric/blob/main/README.md)
 
 ## Past lecture slides and recordings
 
